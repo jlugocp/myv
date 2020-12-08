@@ -1,0 +1,16 @@
+<style>
+.image-resp {
+	display: none;
+}
+@media (max-width: 768px) {/* 959 - at 960 width, they both show up */
+	.image-resp {
+		display: block;
+	}
+	.pb-40 {
+		padding-bottom: 1rem;
+	}
+}
+</style>
+<div class="image-resp">
+	<img src="{{ .Get 0 }}">
+</div>
