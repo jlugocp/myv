@@ -17,6 +17,8 @@ Our bodies are like a musical instrument. Daily stress, accidents, injuries and 
 
 Through daily practices like meditation, improving our diet, exercise, being mindful of where and how we spend our energy physically, mentally and emotionally, we can bring ourselves into a state of harmony. When we know how to do this, we have mastered our vibration.
 
+To receive emails about my local events and updates, join my mailing list by emailing me at jlugo@hey.com.
+
 Join the Master Your Vibration (MYV) newsletter to get interesting and useful information to help you physically, mentally, emotionally and spiritually.
 <br>
 {{< button_cta "MYV Newsletter" "http://masteryourvibration.substack.com" >}}
@@ -29,7 +31,11 @@ Do you have physical pain? I can help with that. I am certified in the Vibration
 
 VFRT focuses mainly on the soft “connective” tissue of the body where pain and restriction is a result of collagen fascia fibers and pressurized fluids working together to press against pain receptors, pinch or compress nerve bundles, reduce blood flow, and prevent the lymphatic system from removing fluids from these enclosed “interstitial” spaces. I use a combination of vibration and compression from tuning forks to directly affect the collagen fascia fibers and compressed fluids where the restriction either “releases” or “resolves” to return a restricted area back to normal function. Find out more at [NEHC Academy](https://nehcacademy.com/what-is-vibrational-fascia-release-technique/).
 
-{{< give_sessions >}}
+{{< red_text html >}}
+	I am not currently giving VFRT sessions.
+{{< /red_text >}}
+
+<!-- {{< give_sessions >}} -->
 
 ![Weighted Forks](images/weighted-forks-with-feet.jpg)
 ---
@@ -40,7 +46,11 @@ Are old injuries, trauma or stress holding you back? I can help with that. I am 
 
 Biofield Tuning is based on the premise that the human biofield - the energy field that surrounds and permeates our bodies - is inextricably connected with our conscious and subconscious mind, including all of our memories.  All physical, mental and emotional disorders can be perceived as "dissonance" in our energy fields.  Biofield Tuning is able to diminish and resolve this dissonance and in doing so, alleviate and even eradicate the corresponding physical, mental and/or emotional symptoms.
 
-{{< give_sessions >}}
+{{< give_sessions >}} 
+
+{{< red_text html >}}
+	I am only giving distance biofield tuning sessions at this time.
+{{< /red_text >}}
 
 ![Biofield Tuning Session](images/forks-over-body.jpg)
 
@@ -54,7 +64,7 @@ I became interested in sound therapy in 2013 when I discovered the work of Jill 
 
 I am passionate about the healing and transformative power of tuning forks, our voice and music. I enjoy sharing this information.
 
-My primary occupation is computer programmer. I see clients for Biofield Tuning and VFRT sessions in the evenings and weekends. I give presentations and workshops on the use of our voice and tuning forks for wellness.
+My primary occupation is computer programmer. I see clients for Biofield Tuning and VFRT sessions in the evenings and on weekends. I give presentations and workshops on the use of our voice and tuning forks for wellness.
 
 jlugo@hey.com
 
