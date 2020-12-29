@@ -21,7 +21,12 @@ To receive emails about my local events and updates, join my mailing list by ema
 
 Join the Master Your Vibration (MYV) newsletter to get interesting and useful information to help you physically, mentally, emotionally and spiritually.
 <br>
-{{< button_cta "MYV Newsletter" "http://masteryourvibration.substack.com" >}}
+{{< button_cta "MYV Newsletter" "https://masteryourvibration.substack.com/" >}}
+<br>
+
+If you are interested in events and updates related to what I am doing with sound and vibration, join the Events and Updates newsletter.
+<br>
+{{< button_cta "MYV Events and Updates" "https://myvupdates.substack.com/" >}}
 <br>
 
 ---
