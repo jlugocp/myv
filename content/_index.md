@@ -54,7 +54,7 @@ Biofield Tuning is based on the premise that the human biofield - the energy fie
 {{< give_sessions >}} 
 
 {{< red_text html >}}
-	I am only giving distance biofield tuning sessions at this time.
+	I am not currently giving biofield tuning sessions.
 {{< /red_text >}}
 
 ![Biofield Tuning Session](images/forks-over-body.jpg)
