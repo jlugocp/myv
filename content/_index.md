@@ -17,7 +17,7 @@ Our bodies are like a musical instrument. Daily stress, accidents, injuries and 
 
 Through daily practices like meditation, improving our diet, exercise, being mindful of where and how we spend our energy physically, mentally and emotionally, we can bring ourselves into a state of harmony. When we know how to do this, we have mastered our vibration.
 
-To receive emails about my local events and updates, join my mailing list by emailing me at jlugo@hey.com.
+To receive emails about my local events and updates, join my mailing list by emailing me at soundhealing@jlugo.net.
 
 Join the Master Your Vibration (MYV) newsletter to get interesting and useful information to help you physically, mentally, emotionally and spiritually.
 <br>
@@ -71,7 +71,7 @@ I am passionate about the healing and transformative power of tuning forks, our 
 
 My primary occupation is computer programmer. I see clients for Biofield Tuning and VFRT sessions in the evenings and on weekends. I give presentations and workshops on the use of our voice and tuning forks for wellness.
 
-jlugo@hey.com
+soundhealing@jlugo.net
 
 ![Biofield Tuning Session](images/best-smile.JPG)
 {{< greyed_text html >}}
