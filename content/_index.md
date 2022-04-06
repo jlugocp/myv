@@ -36,11 +36,11 @@ Do you have physical pain? I can help with that. I am certified in the Vibration
 
 VFRT focuses mainly on the soft “connective” tissue of the body where pain and restriction is a result of collagen fascia fibers and pressurized fluids working together to press against pain receptors, pinch or compress nerve bundles, reduce blood flow, and prevent the lymphatic system from removing fluids from these enclosed “interstitial” spaces. I use a combination of vibration and compression from tuning forks to directly affect the collagen fascia fibers and compressed fluids where the restriction either “releases” or “resolves” to return a restricted area back to normal function. Find out more at [NEHC Academy](https://nehcacademy.com/what-is-vibrational-fascia-release-technique/).
 
-{{< red_text html >}}
+<!-- {{< red_text html >}}
 	I am not currently giving VFRT sessions.
-{{< /red_text >}}
+{{< /red_text >}} -->
 
-<!-- {{< give_sessions >}} -->
+{{< give_sessions >}}
 
 ![Weighted Forks](images/weighted-forks-with-feet.jpg)
 ---
@@ -53,9 +53,9 @@ Biofield Tuning is based on the premise that the human biofield - the energy fie
 
 {{< give_sessions >}} 
 
-{{< red_text html >}}
+<!-- {{< red_text html >}}
 	I am not currently giving biofield tuning sessions.
-{{< /red_text >}}
+{{< /red_text >}} -->
 
 ![Biofield Tuning Session](images/forks-over-body.jpg)
 
