@@ -17,16 +17,9 @@ Our bodies are like a musical instrument. Daily stress, accidents, injuries and 
 
 Through daily practices like meditation, improving our diet, exercise, being mindful of where and how we spend our energy physically, mentally and emotionally, we can bring ourselves into a state of harmony. When we know how to do this, we have mastered our vibration.
 
-To receive emails about my local events and updates, join my mailing list by emailing me at soundhealing@jlugo.net.
-
-Join the Master Your Vibration (MYV) newsletter to get interesting and useful information to help you physically, mentally, emotionally and spiritually.
+Join the Master Your Vibration (MYV) newsletter to get updates on what I am doing with sound and vibration. Also, I occasionally send out information that I find helpful to mastering your vibration.
 <br>
 {{< button_cta "MYV Newsletter" "https://masteryourvibration.substack.com/" >}}
-<br>
-
-If you are interested in events and updates related to what I am doing with sound and vibration, join the Events and Updates newsletter.
-<br>
-{{< button_cta "MYV Events and Updates" "https://myvupdates.substack.com/" >}}
 <br>
 
 ---
