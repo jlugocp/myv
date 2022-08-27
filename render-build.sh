@@ -21,3 +21,10 @@ else
 fi
 
 $XDG_CACHE_HOME/hugo version
+
+# Render sets IS_PULL_REQUEST to true for PR previews.
+if [ "${IS_PULL_REQUEST:-}" = "true" ]; then
+    $XDG_CACHE_HOME/hugo --gc -e preview
+else
+    $XDG_CACHE_HOME/hugo --gc --minify
+fi
