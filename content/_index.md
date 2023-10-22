@@ -24,31 +24,34 @@ Join the Master Your Vibration (MYV) newsletter to get updates on what I am doin
 
 ---
 
+<!--
 # Vibrational Fascia Release Technique
 Do you have physical pain? I can help with that. I am certified in the Vibrational Fascia Release Technique (VFRT).
 
 VFRT focuses mainly on the soft “connective” tissue of the body where pain and restriction is a result of collagen fascia fibers and pressurized fluids working together to press against pain receptors, pinch or compress nerve bundles, reduce blood flow, and prevent the lymphatic system from removing fluids from these enclosed “interstitial” spaces. I use a combination of vibration and compression from tuning forks to directly affect the collagen fascia fibers and compressed fluids where the restriction either “releases” or “resolves” to return a restricted area back to normal function. Find out more at [NEHC Academy](https://nehcacademy.com/what-is-vibrational-fascia-release-technique/).
 
-<!-- {{< red_text html >}}
+{{< red_text html >}}
 	I am not currently giving VFRT sessions.
-{{< /red_text >}} -->
+{{< /red_text >}}
 
 {{< give_sessions >}}
 
 ![Weighted Forks](images/weighted-forks-with-feet.jpg)
 ---
+-->
 
 # Biofield Tuning
 
+<!--
 Are old injuries, trauma or stress holding you back? I can help with that. I am a Certified Biofield Tuning Practitioner.
 
 Biofield Tuning is based on the premise that the human biofield - the energy field that surrounds and permeates our bodies - is inextricably connected with our conscious and subconscious mind, including all of our memories.  All physical, mental and emotional disorders can be perceived as "dissonance" in our energy fields.  Biofield Tuning is able to diminish and resolve this dissonance and in doing so, alleviate and even eradicate the corresponding physical, mental and/or emotional symptoms.
 
 {{< give_sessions >}} 
-
-<!-- {{< red_text html >}}
-	I am not currently giving biofield tuning sessions.
-{{< /red_text >}} -->
+-->
+{{< red_text html >}}
+	I am not giving biofield tuning sessions at this time.
+{{< /red_text >}}
 
 ![Biofield Tuning Session](images/forks-over-body.jpg)
 
